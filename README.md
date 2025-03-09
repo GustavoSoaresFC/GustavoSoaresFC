@@ -1,16 +1,13 @@
-## Hi there 👋
+## Aprendizado contínuo: o segredo para crescer como desenvolvedor 👨‍💻
 
-<!--
-**GustavoSoaresFC/GustavoSoaresFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer me chamo **Gustavo**, Sou um desenvolvedor iniciante interessado em tecnologia. Estou dando meus primeiros passos no mundo da programação, aprendendo a cada dia e me dedicado para se tornar uma programador Full-Stack.
 
-Here are some ideas to get you started:
+## Tecnologias e ferramentas que utilizo e estou explorando::
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://skillicons.dev/icons?i=lua)](https://www.lua.org/docs.html)
+[![](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://skillicons.dev/icons?i=java)]((https://www.java.com/pt-BR/))
+[![](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
