@@ -11,3 +11,5 @@ Prazer me chamo **Gustavo**, Sou um desenvolvedor iniciante interessado em tecno
 [![](https://skillicons.dev/icons?i=java)]((https://www.java.com/pt-BR/))
 [![](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![](https://skillicons.dev/icons?i=mysql)]([https://www.mysql.com/](https://dotnet.microsoft.com/pt-br/languages/csharp))
+
